@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Peoria, Arizona with a population of over 190k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Peoria, Arizona, US",
+  "export_job_id": "cf69cc92-666e-4d27-981d-a2b01562dc35",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 760733,
+  "location_name": "Peoria",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-peoria-arizona-us-sample-760733",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/760733/beamstation_760733_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.91,
+  "sample_records": 42,
+  "sample_sha256": "5aaf0d2b2d2cb5d7547672cafe27966920036b9fe0151d83009b87039204c5f0",
+  "sample_size_bytes": 155628,
+  "total_records": 424,
+  "updated_at": "2026-04-09T11:05:52.266621+00:00"
+}
