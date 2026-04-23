@@ -1,12 +1,12 @@
 {
-  "export_job_id": "03627fd9-aa7f-4390-8e9a-d2db7a8b798c",
+  "export_job_id": "42953ab8-b609-4d49-98da-9058cf0603f7",
   "id_short": 760733,
-  "published_at": "2026-04-19T19:33:17Z",
+  "published_at": "2026-04-23T19:40:52Z",
   "repo_name": "all-restaurants-in-peoria-arizona-us-sample-760733",
   "sample_asset_name": "beamstation_760733_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/760733/beamstation_760733_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 40,
-  "sample_sha256": "1d920d83d32d40e62426e1a119508db6d8b94efa0ec3a512c574007341499a6b",
-  "sample_size_bytes": 155310,
-  "total_records": 409
+  "sample_records": 35,
+  "sample_sha256": "ba9f43bb62f350fd1b9ba2c6b1985da7175bb9179e2311d29e57c150cfce5f4e",
+  "sample_size_bytes": 152635,
+  "total_records": 351
 }
